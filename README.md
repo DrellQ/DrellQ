@@ -1,6 +1,5 @@
-## Hi there 👋
 # Derrell Quartey
-Welcome to my GitHub profile! I am a technology professional with a focus in financial risk management
+Welcome to my GitHub profile! I am a technology professional with a focus in financial risk management.
 
 <!--
 **DrellQ/DrellQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
